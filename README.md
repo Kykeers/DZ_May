@@ -3,7 +3,7 @@
 ## Creating branch
 git branch branch_name - создание новой ветки
 ## Merging branch
-команда git merge
+git merge - слияние двух веток
 ## Conflicns
 конфликт возникает при использовании одного рабочего пространства
 ## Git remote
