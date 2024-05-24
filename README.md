@@ -3,7 +3,7 @@
 ## Creating branch
 git branch branch_name - создание новой ветки
 ## Merging branch
-
+git merge - слияние двух веток
 ## Conflicns
 
 ## Git remote
