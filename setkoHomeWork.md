@@ -110,3 +110,6 @@
 ## Changes from local repository
 
 ## Changes from remote repository
+
+
+## _*Спасибо за позновательные лекции!*_
