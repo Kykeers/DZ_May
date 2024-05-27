@@ -3,3 +3,7 @@
 ## Changes from Banzay7
 
 ## Changes from Bannzay7 v2
+
+## Спасибо преподавателю за хорошее пояснение и помощь. 
+
+## [help|](../help.jpg) Вопросов не осталось
