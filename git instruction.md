@@ -12,6 +12,12 @@
 * git checkout - перейти на нужную фиксацию (указать первые 4 знака хеша)
 * git checkout master - перейти на актуальное состояние
 * git log - отобразить фиксации
+## Remote repository
+1 Создать репозиторий на GitHub
+2 Согласно иструкциям на GitHub связать локальный репозиторий с удалённым.
+Используя команду git remote add origin <URL> и так далее.
+3 Для отправки изменений с локального на удалённый репозиторий использовать команду git push (если впервые git push -u origin branch_name).
+4 Для обновления локального репозитория до последней версии удалённого - комманда git pull.
 
 [![логотип git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s)]
 
