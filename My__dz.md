@@ -11,3 +11,19 @@
 * git commit -m *-сохраняет комментарий к сохраненной версии*
 * git checkout - **позволяет переключаться между версиями**
 * git status - сообщает о состоянии репозитория
+
+# Second Seminar
+29.05.2024
+
+## Creating branch
+git branch branch_name - создание новой ветки
+git checkout -b branch_name - создание и переход на новую ветку
+## Merging branch
+git merge branch_name - слияние двух веток
+## Conflicts
+Конфликты возникают, когда затрагивается общее рабочее пространство
+## Визуализация веток
+git log --graph - журнал коммитов с указанием веток
+## Удаление веток
+git branch -d branch_name - удаляет только ранее слитую ветку
+git branch -D branch_name - удаляет любую ветку
