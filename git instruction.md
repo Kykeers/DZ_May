@@ -19,10 +19,10 @@
 3. Для отправки изменений с локального на удалённый репозиторий использовать команду git push (если впервые git push -u origin branch_name).
 4. Для обновления локального репозитория до последней версии удалённого - комманда git pull.
 
-[![логотип git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s)]
+![логотип git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s)
 
 # Markdown
 
 Инструкция оформлена языком разметки markdown.
 
-[![логотип markdown](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnu7934BT4IAqyaLexJIlqSaThMNkeiRzz0ux0qR11wQ&s)]
+![логотип markdown](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnu7934BT4IAqyaLexJIlqSaThMNkeiRzz0ux0qR11wQ&s)
