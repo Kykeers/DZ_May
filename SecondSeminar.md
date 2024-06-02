@@ -12,4 +12,7 @@ git merge branch_name - слияние двух веток
 
 Конфликты возникают, когда затрагивается общее просторанство
 
-hello, world!!!
+## Remote repository
+
+git push --set-upstream origin branch_name либо git push -u origin branch_name - отправка всех изменений из локального репозитория в удаленный
+git pull - наоборот скачивает всем изменения из удаленного репозитория в локальный 
