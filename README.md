@@ -145,19 +145,27 @@ ___
 
 | Команда | Описание |
 | --- | --- |
-| git init | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| git help  |справка по всем командам|
+| git init |  инициализировать локальный репозиторий |
+| git add | добавить файл или файлы к следующему комиту |
+| git version | узнать версию гита |
+| git diff | позволяет увидеть разницу между сохраненным файлом и добавленным |
+| git commit -m "новое сообщение" |   фиксация изменений и сообщение коммита |
+| git commit -- amend -m "новое сообщение"| редактирование сообщения последнего комита|
+| git config --global user.name "<ваше_имя>" |  изменение подписи автора |
+| git config --global user.email "<адрес_почты@email.com>" |  изменение адреса почты автора|
+| git clone "ссылка" | копирование репозитория по ссылке |
+| git status |узнать были ли изменения в коммитах|
+| git log | просмотр коммитов|
+| git branch -d | удаляет ветку которая была слита. Иначе выдаст ошибку и не даст потерять информацию. |
+| git branch -D | удаляет ветку,даже если информация не была сохранена. |
+| git reset | отмена изменений |
 
-(# #1)Ссылка первая
+# Полезные ссылки
 
+[Основные команды Git](https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 
-
-
-
+[Документация по GitHub](https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
 
 
 
