@@ -1,11 +1,3 @@
-$ git merge new_1
-Auto-merging README.md
-CONFLICT (content): Merge conflict in README.md
-Automatic merge failed; fix conflicts and then commit the result.$ git merge new_1
-Auto-merging README.md
-CONFLICT (content): Merge conflict in README.md
-Automatic merge failed; fix confli# ASSIGNMENT
-ASSIGNMENT FOR THE VERSION CONTROL CLASS
 
 В этом проекте собрана информация из курса контроль версий123
 
